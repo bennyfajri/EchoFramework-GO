@@ -29,8 +29,9 @@ type Employees struct {
 }
 
 type Suppliers struct {
+	SupplierID   string `json:"supplierID,omniempty"`
 	CompanyName  string `json:"companyName"`
-	ContactName  string `json:ContactName"`
+	ContactName  string `json:"contactName"`
 	ContactTitle string `json:"contactTitle"`
 	Address      string `json:"address"`
 	City         string `json:"city"`
