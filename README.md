@@ -26,7 +26,7 @@
 ### Request JSON
 * List Supplier
 ```
-tidak harus diisi / request berjalan hanya dengan url
+tidak harus diisi / request dapat berjalan hanya dengan url
 ```
 
 * Adding Supplier
@@ -52,7 +52,6 @@ tidak harus diisi / request berjalan hanya dengan url
     "contactName" : "Beni Fajri",
     "contactTitle" : "Purchasing Manager",
     "supplierID" : 30
-
 }
 ```
 
@@ -84,7 +83,7 @@ tidak harus diisi / request berjalan hanya dengan url
             "fax": "",
             "homePage": ""
         },
-        * ... *
+         ...
     ]
 }
 ```
